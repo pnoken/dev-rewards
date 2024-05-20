@@ -3,6 +3,9 @@
 This repo allows one to generate a proof signature for dev reward claiming.
 
 The methods for generating signature are described below:
+Run the script in your machine terminal. Make sure keys that are uploaded to Github are also stored on this machine. You can sign with any of those keys (only RSA and Ed25519 are supported).
+
+If everything went well, you should see a base64-encoded string in your terminal — that’s your proof.
 
 ## Generate proof in docker
 
