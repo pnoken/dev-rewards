@@ -1,9 +1,6 @@
-# Fluence Developer Rewards
+# Developer Rewards
 
-This repo allows one to generate a proof signature for Fluence dev reward claiming.
-
-> [!CAUTION]
-> Beware of scam emails, asking you to generate proofs for someone! See [#98](https://github.com/fluencelabs/dev-rewards/pull/98).
+This repo allows one to generate a proof signature for dev reward claiming.
 
 The methods for generating signature are described below:
 
